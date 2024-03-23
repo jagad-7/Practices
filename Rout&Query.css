@@ -1,0 +1,20 @@
+.rout{
+    padding: 10px;
+    background-color: blue;
+}
+.rout ul li{
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    padding: 10px 10px;
+    position: relative;
+}
+.link{
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+}
+.link:hover{
+    color: black;
+    padding-top: 7px;
+}
